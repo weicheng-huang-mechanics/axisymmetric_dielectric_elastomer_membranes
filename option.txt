@@ -1,0 +1,18 @@
+render 1
+saveData 1
+YoungM 4.225e3
+totalTime 100.0
+deltaTime 1e-2
+thickness 0.1
+density 100.00
+stol 1e-6
+forceTol 1e-6
+maxIter 10
+viscosity 1.0
+scaleRendering 0.005
+gVector 0.0 0.0 0.0
+inputPhi 0.0
+inputPressure 200.0
+speed 100.0
+nv 200
+Possion 0.5
