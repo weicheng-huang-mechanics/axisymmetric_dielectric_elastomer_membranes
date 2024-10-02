@@ -18,7 +18,6 @@
 #include "externalPressureForce.h"
 #include "hyperElasticMM.h"
 #include "electricActuation.h"
-#include "volumeForce.h"
 
 class world
 {
